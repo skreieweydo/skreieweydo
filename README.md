@@ -1,4 +1,4 @@
-![Banner](./banner.jpg)
+![Banner](./banner.png)
 
 <h1 align="center">skreieweydo</h1>
 <p align="center">
