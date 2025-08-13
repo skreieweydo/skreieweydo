@@ -1,6 +1,5 @@
-![Banner](./banner.png)
 <p align="center">
-  <img src="./socials.jpg" alt="Skreieweydo Banner" width="100%" />
+  <img src="./banner.png" alt="Skreieweydo Banner" width="100%" />
 </p>
 
 <h1 align="center">⚙️ Skreieweydo</h1>
