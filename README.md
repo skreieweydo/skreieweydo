@@ -16,7 +16,8 @@
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2">
   </a>
 </p>
-
+Skreieweydo Logworks — utilities that turn log noise into signal.  
+Open-source logging + dev tools, privacy by default.  
 ---
 
 ## 🚀 Our Mission
