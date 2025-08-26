@@ -2,10 +2,15 @@
   <img src="./banner.png" alt="Skreieweydo Banner" width="100%" />
 </p>
 
-<h1 align="center">⚙️ Skreieweydo</h1>
+<h1 align="center">⚙️ Skreieweydo Logworks</h1>
 <p align="center">
-  <strong>We build small, sharp tools and libraries for reliable software systems.</strong><br/>
-  TypeScript • Bash • Electron • Testing • Tooling
+  <strong>
+    We build small, sharp tools and libraries for reliable software systems. Utilities for predictable ranges, structured outputs, and zero-dependency clarity. Open-source logging + dev tools, privacy by default.  
+  </strong><br/>
+  Noise → Signal in your logs.  
+
+
+**Quickstart:** https://skreieweydo.github.io?utm_source=github&utm_medium=readme&utm_campaign=quickstart
 </p>
 
 <p align="center">
@@ -16,8 +21,6 @@
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2">
   </a>
 </p>
-Skreieweydo Logworks — utilities that turn log noise into signal.  
-Open-source logging + dev tools, privacy by default.  
 ---
 
 ## 🚀 Our Mission
