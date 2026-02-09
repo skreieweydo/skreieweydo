@@ -7,10 +7,7 @@
   <strong>
     We build small, sharp tools and libraries for reliable software systems. Utilities for predictable ranges, structured outputs, and zero-dependency clarity. Open-source logging + dev tools, privacy by default.  
   </strong><br/>
-  Noise → Signal in your logs.  
-
-
-**Quickstart:** https://skreieweydo.github.io?utm_source=github&utm_medium=readme&utm_campaign=quickstart
+  Noise → Signal in your logs.
 </p>
 
 <p align="center">
