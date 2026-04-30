@@ -1,126 +1,150 @@
-<p align="center">
-  <img src="./banner.png" alt="Skreieweydo Banner" width="100%" />
-</p>
+# Michael James
 
-<h1 align="center">⚙️ Skreieweydo Logworks</h1>
-<p align="center">
-  <strong>
-    We build small, sharp tools and libraries for reliable software systems. Utilities for predictable ranges, structured outputs, and zero-dependency clarity. Open-source logging + dev tools, privacy by default.  
-  </strong><br/>
-  Noise → Signal in your logs.
-</p>
+```text
+$ boot
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/michaelrjamesjr/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8">
-  </a>
-  <a href="https://twitter.com/michaelrjamesjr">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2">
-  </a>
-</p>
----
+[ok] initializing environment...
+[ok] loading modules...
+[ok] ready
 
-## 🚀 Our Mission
+$ whoami
 
-> **Make complex things simple.**  
-> Skreieweydo delivers lightweight, composable, and well-documented developer tools. Every project is designed for **clarity**, **testability**, and **long-term maintainability**.
+Michael James
+automation | devtools | systems
 
----
+building reliable developer tools
+bash • typescript • node • testing • ci/cd
+```
 
-## 📌 Featured Projects
+```text
+$ help
 
-<table>
-<tr>
-<td align="center">
-  <a href="https://github.com/skreieweydo/Random">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skreieweydo&repo=Random&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-  <br/>
-  <a href="https://github.com/skreieweydo/Random" style="text-decoration:none;">
-    <img src="https://img.shields.io/github/stars/skreieweydo/Random?style=social" />
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/skreieweydo/Range">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skreieweydo&repo=Range&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-  <br/>
-  <a href="https://github.com/skreieweydo/Range">
-    <img src="https://img.shields.io/github/stars/skreieweydo/Range?style=social" />
-  </a>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://github.com/skreieweydo/Matrix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skreieweydo&repo=Matrix&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-  <br/>
-  <a href="https://github.com/skreieweydo/Matrix">
-    <img src="https://img.shields.io/github/stars/skreieweydo/Matrix?style=social" />
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/skreieweydo/StringBuilder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skreieweydo&repo=StringBuilder&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-  <br/>
-  <a href="https://github.com/skreieweydo/StringBuilder">
-    <img src="https://img.shields.io/github/stars/skreieweydo/StringBuilder?style=social" />
-  </a>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://github.com/skreieweydo/Form">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skreieweydo&repo=Form&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-  <br/>
-  <a href="https://github.com/skreieweydo/Form">
-    <img src="https://img.shields.io/github/stars/skreieweydo/Form?style=social" />
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/skreieweydo/Shuffle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skreieweydo&repo=Shuffle&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-  <br/>
-  <a href="https://github.com/skreieweydo/Shuffle">
-    <img src="https://img.shields.io/github/stars/skreieweydo/Shuffle?style=social" />
-  </a>
-</td>
-</tr>
-</table>
+available commands:
+
+  focus        → what I work on
+  projects     → view projects
+  stack        → tools & technologies
+  approach     → how I build
+  contact      → links
+
+type a command below
+```
 
 ---
 
-## 📏 Engineering Standards
+<details>
+<summary><code>$ focus</code></summary>
 
-- ✅ **Tests First** – Every repo has Jest / bats-core suites for happy paths & edge cases.
-- 📜 **Clear API Docs** – [min, max) semantics, usage examples, error handling.
-- 📦 **Release Hygiene** – Conventional commits, semantic versioning, CHANGELOG.md.
-- 🧩 **Composable Design** – Small pieces that fit together naturally.
+```text
+[ok] loading focus...
+
+- cli tools
+- bash automation
+- git workflows
+- testing (jest / bats)
+- ci/cd fundamentals
+```
+
+</details>
+
+---
+
+<details>
+<summary><code>$ projects</code></summary>
+
+```text
+[ok] fetching projects...
+
+> smart-commit
+  bash cli for structured git workflows
+  - predictable behavior
+  - safe argument handling
+  - testable output
+
+  $ open smart-commit
+```
+
+🔗 https://github.com/skreieweydo/smart-commit
+
+```text
+> tree-lite
+  filesystem traversal utility
+  - edge case handling
+  - deterministic output
+
+  $ open tree-lite
+```
+
+🔗 https://github.com/skreieweydo/tree-lite
+
+```text
+> random-kit
+  typescript utilities
+  - deterministic behavior
+  - clean api design
+
+  $ open random-kit
+```
+
+🔗 https://github.com/skreieweydo/random-kit
+
+```
+
+</details>
 
 ---
 
-## 📊 Organization Stats
+<details>
+<summary><code>$ stack</code></summary>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skreieweydo&show_icons=true&theme=dark" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skreieweydo&layout=compact&theme=dark" alt="Top languages" height="160"/>
-</p>
+```text
+[ok] loading stack...
+
+languages:
+  bash
+  typescript
+  javascript
+
+tools:
+  git
+  node.js
+  jest
+  bats
+
+environment:
+  macos
+  unix / shell
+```
+
+</details>
 
 ---
 
-## 🛠 Tech Stack
+<details>
+<summary><code>$ approach</code></summary>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-React-4AB197?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-4AB197?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-4AB197?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Test-Jest-4AB197?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Docker-4AB197?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-NPM-4AB197?style=for-the-badge&logo=npm&logoColor=white" />
-</p>
+```text
+[ok] loading approach...
+
+- correctness over convenience
+- behavior over abstraction
+- testability first
+- explicit over implicit
+```
+
+</details>
 
 ---
+
+<details>
+<summary><code>$ contact</code></summary>
+
+```text
+[ok] loading contact...
+
+github:   https://github.com/skreieweydo
+linkedin: (add here)
+x:        (add here)
+```
+
+</details>
